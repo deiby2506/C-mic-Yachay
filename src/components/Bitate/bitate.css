@@ -1,0 +1,7 @@
+.bitatex{
+    background: var(--dark-blue);    
+   justify-content: space-between;
+};
+.container{
+   padding: 1rem;
+}

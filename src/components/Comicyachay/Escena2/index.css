@@ -1,0 +1,15 @@
+.boton_text{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 3rem;
+}
+.buttonm{
+    height: 4rem;
+    padding: 0 4rem;
+    margin: 1.5rem 0;
+    border-radius: 0.4rem;
+    background: var(--burn-yellow);
+    font-weight: 900;
+    border: none;
+};

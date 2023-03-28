@@ -1,0 +1,17 @@
+.personajes{
+   background: var(--dark-blue);
+   margin: auto;
+   padding: 0.6rem;
+  
+}
+.personaje{
+    background-repeat: no-repeat;
+    color: var(--burn-yellow);
+}
+article{
+   text-align: center;
+}
+.tituper{
+    text-align: center;
+    color: var(--burn-yellow);
+}

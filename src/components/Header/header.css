@@ -1,0 +1,23 @@
+header{
+    background: var(--dark-blue);
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    padding: 1rem 6rem;
+    align-items: center;
+
+};
+
+nav{
+ margin: 2rem;  
+}
+
+nav button{
+    background: var(--burn-yellow) ;
+    width: 2rem 2rem;
+    padding: 1rem;
+    margin: 0 0.5rem;
+    border-radius: 10px;
+    font-weight: 900;
+    border: none;
+};

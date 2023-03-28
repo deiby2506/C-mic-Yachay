@@ -1,0 +1,23 @@
+.somos{
+    background: var(--burn-yellow);
+    margin: auto;
+    padding: 0.6rem;
+   
+ }
+ .quienes{
+     background-repeat: no-repeat;
+     color: var(--dark-blue);
+ }
+ .textquienes{
+    text-align: center;
+    color: var(--dark-blue);
+ }
+.tituso{
+     text-align: center;
+     
+ }
+ .text_somos{
+    font-size: 1.3rem;
+    width: 95%;
+    
+ }

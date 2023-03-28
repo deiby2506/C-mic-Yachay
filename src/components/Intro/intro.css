@@ -1,0 +1,22 @@
+
+section{
+    background: var(--burn-yellow);
+    align-items: center;
+}
+.introt{
+    text-align: center;
+    color: var(--dark-blue);
+}
+p{
+    color: var(--dark-blue);
+    font-size: 1.7rem;
+    text-align: justify;
+}
+h2{
+    font-weight: 700;
+    text-align: center;
+}
+.video1{
+    align-items: center;
+    padding: 1rem;
+}
