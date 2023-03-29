@@ -1,4 +1,3 @@
-/* eslint-disable jsx-a11y/anchor-is-valid */
 import "./footer.css";
 import { Link } from "react-router-dom";
 import logo from "../../img/Logo.jpg";
