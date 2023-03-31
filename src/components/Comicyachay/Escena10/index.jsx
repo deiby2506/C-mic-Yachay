@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import Animation from '../../asset/escena10.json';
 import ReactHowler from "react-howler";
 import sound10 from "../../asset/Sound/Audioescena10.mp3";
-import "./index.css"
+import moduleStyle from "../Estilos.module.css";
 
 const Decimoescena = (Props) =>{
   const LottieRef = useRef();
@@ -33,7 +33,7 @@ return(
     <div>
         <h2>Click en la pantalla para empezar animación</h2>
       </div>
-    <Lottie className="anima" lottieRef={LottieRef} animationData={Animation} loop={false} onClick={changeView}/>
+    <Lottie className={moduleStyle.comic} lottieRef={LottieRef} animationData={Animation} loop={false} onClick={changeView}/>
     <ReactHowler src={sound10} playing={ViewPass}/>
     </div>
     <div className="boton_text">

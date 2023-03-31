@@ -1,6 +1,6 @@
 :root{
-    --dark-blue: #1f2c42;
-    --burn-yellow: #ffca73;
+    --dark-blue: hsl(218, 36%, 19%);
+    --burn-yellow: hsl(37, 100%, 73%);
 };
 
 body{
